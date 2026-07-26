@@ -1,0 +1,14 @@
+# VMware
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
+*.vmsd
+*.vmxf
+*.vmx
+*.log
+*.scoreboard
+
+# ISOs
+*.iso
